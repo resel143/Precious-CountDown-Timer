@@ -1,0 +1,38 @@
+.container{
+    margin-top: 20vh;
+    border: 3px solid #48304b;
+    height: 100%;
+    width: 80%;
+}
+
+.row, .timer{
+    background-color: beige;
+    text-align: center;
+}
+h1{
+    font-size: 10rem;
+    font-family: 'Train One', cursive;
+}
+
+.showingTimer{
+    background-color:#0b0a18;
+    color: #eed1a0;
+    font-family: 'Train One', cursive;
+    font-size: 5rem;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+#head{
+    color: #eed1a0;
+    background-color: #302655;
+}
+#title{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #895070;
+    color: #eed1a0;
+}
+.timer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
